@@ -1,5 +1,7 @@
 h1{
     font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 10px;
+    text-decoration: underline;
 }
 
 h2{
@@ -12,4 +14,17 @@ h3{
 
 .text{
     font-family: 'Courier New', Courier, monospace;
+}
+
+.headingDiv{
+    display: inline-flex;
+}
+
+.description{
+    margin-left: 10px;
+}
+
+.img{
+    width: 250px;
+    border: 5px solid black;
 }
